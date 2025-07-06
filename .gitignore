@@ -1,0 +1,35 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS metadata
+.DS_Store
+
+# Plot images and charts
+*.png
+*.svg
+charts/
+
+# Output files and exports
+output/
+*.csv
+*.json
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Editor-specific
+.vscode/
+.idea/
+*.sublime-workspace
+
